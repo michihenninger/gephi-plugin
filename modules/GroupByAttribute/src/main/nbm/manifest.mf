@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Group By Attribute
+OpenIDE-Module-Short-Description: Groups nodes by categorial attributes
+OpenIDE-Module-Long-Description: Groups nodes by categorial attributes
+OpenIDE-Module-Display-Category: Generator
